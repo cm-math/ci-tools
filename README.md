@@ -3,7 +3,7 @@ This is a package for the computer algebra system [Magma](http://magma.maths.usy
 providing a toolkit for hypersurfaces and complete intersections in toric varieties.
 
 ## Usage
-Go the directory with the `spec` file and start a Magma session.
+Go to the directory with the `spec` file and start a Magma session.
 The provided intrinsics are available after loading the package with the following command.
 ```
 AttachSpec("spec");
